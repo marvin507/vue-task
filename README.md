@@ -27,4 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
-![Alt text](public/screenshots/cap1.png?raw=true "Title")
+![Alt text](public/screenshots/cap1.png?raw=true "captura 1")
