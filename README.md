@@ -28,3 +28,5 @@ npm run dev
 npm run build
 ```
 ![cap1](https://github.com/marvin507/vue-task/assets/25932140/18cfe94e-878d-4415-82b6-2194b85d0990)
+
+![Alt text](public/screenshots/cap1.png?raw=true "Title")
